@@ -8,3 +8,10 @@ audio and generating a voice given a small audio recording and a facial
 image. To capture this correlation, our model consists of an utterance
 encoder/decoder ,voice encoder, image encoder/decoder and classifiers for
 voice and face.
+
+
+## Problem statement
+Our problem statement for this project can be broadly stated as:
+1. Generate voice that matches input face image
+2. Generate face image that matches voice
+
