@@ -30,4 +30,4 @@ Get preptrained model if required from below link and palce in main folder:
 https://drive.google.com/file/d/1cfG5chtcdbxEjFDPL9uEW6Iwf-Yf1mRr/view?usp=sharing
 
 Use train jupyter notebook to train
-Use test jupyter notebook to get conversion results
+and Use test jupyter notebook to get conversion results
