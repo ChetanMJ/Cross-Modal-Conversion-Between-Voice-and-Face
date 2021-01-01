@@ -22,7 +22,7 @@ Our problem statement for this project can be broadly stated as:
 ![NetworkArch1](https://user-images.githubusercontent.com/46570073/103434971-8f0cd700-4bd6-11eb-8a2c-9ce9beb85670.jpg)
 ![NetworkArch2](https://user-images.githubusercontent.com/46570073/103434973-93d18b00-4bd6-11eb-9c20-2556f8548ef9.jpg)
 
-## Instrauctions to run
+## Instructions to run
 Get CelebA data from below link and palce it in data folder:
 https://drive.google.com/file/d/127vi0kFNvYCPj7qJQEFvsFlxdgsqO4iX/view?usp=sharing
 
